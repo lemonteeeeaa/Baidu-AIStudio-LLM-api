@@ -1,0 +1,22 @@
+{
+  "name": "baidu-aistudio-llm-api",
+  "owner": {
+    "name": "LeoYang",
+    "email": "19980860091@163.com"
+  },
+  "metadata": {
+    "description": "Baidu AI Studio LLM API skills for calling ERNIE, DeepSeek, Kimi and other large language models",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "baidu-aistudio-llm-api",
+      "description": "Baidu AI Studio LLM API calling assistant. Helps developers quickly integrate ERNIE, DeepSeek, Kimi and other LLM services from AI Studio. Compatible with OpenAI SDK, 1 million free tokens on registration.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/baidu-aistudio-llm-api"
+      ]
+    }
+  ]
+}
