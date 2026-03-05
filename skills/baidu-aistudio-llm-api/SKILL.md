@@ -1,6 +1,6 @@
 ---
-name: xinghe-llm-api
-description: 星河社区大模型API调用助手。帮助开发者快速接入星河社区的文心(ERNIE)、DeepSeek等大模型API服务。当用户需要：(1) 调用文心大模型API (2) 使用DeepSeek等开源模型 (3) 接入星河社区LLM服务 (4) 询问星河大模型使用方法 (5) 说"帮我调用ERNIE"、"使用文心API"、"星河大模型"等触发。兼容OpenAI SDK，注册即送100万tokens。
+name: baidu-aistudio-llm-api
+description: 百度AI Studio大模型API调用助手。帮助开发者快速接入AI Studio的文心(ERNIE)、DeepSeek、Kimi等大模型API服务。当用户需要：(1) 调用文心大模型API (2) 使用DeepSeek/Kimi等开源模型 (3) 接入AI Studio LLM服务 (4) 询问AI Studio大模型使用方法 (5) 说"帮我调用ERNIE"、"使用文心API"、"AI Studio大模型"、"百度大模型"等触发。兼容OpenAI SDK，注册即送100万tokens。
 ---
 
 # 星河社区大模型API调用
